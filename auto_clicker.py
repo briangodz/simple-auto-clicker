@@ -4,7 +4,7 @@ import sys
 
 def auto_click(interval: float = 0.5, clicks: int = 10):
     """
-    Auto clicker sederhana.
+    Auto clicker sederhana cocok untuk afk.
     
     Args:
         interval (float): Waktu tunggu antar klik (detik)
