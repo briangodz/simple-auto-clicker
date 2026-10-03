@@ -6,14 +6,14 @@ Sebuah tool sederhana untuk melakukan klik otomatis menggunakan Python cocok unt
 
 1. Clone Repository:
 ```bash
-git clone https://github.com/username/auto-clicker.git
-cd auto-clicker
+git clone https://github.com/briangodz/simple-auto-clicker.git
+cd simple-auto-clicker
 ```
 2. Install dependency:
 ```bash
 pip install -r requirements.txt
 ```
-2. Jalankan script:
+3. Jalankan script:
 ```bash
 python auto_clicker.py [interval] [jumlah_klik]
 ```
